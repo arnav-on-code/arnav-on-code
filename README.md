@@ -121,6 +121,8 @@
 
 </div>
 
+![snake](https://raw.githubusercontent.com/arnav-on-code/arnav-on-code/output/github-contribution-grid-snake-dark.svg)
+
 <br/>
 
 ## 🚀 Featured Projects
