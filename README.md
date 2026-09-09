@@ -121,9 +121,6 @@
 
 </div>
 
-> 🐍 **Bonus — animated contribution snake:** drop the `snake.yml` workflow (included alongside this README) into `.github/workflows/` in a `arnav-on-code/arnav-on-code` repo. It auto-generates a snake that "eats" your contribution graph, committed to an `output` branch. Then embed it here with:
-> `![snake](https://raw.githubusercontent.com/arnav-on-code/arnav-on-code/output/github-contribution-grid-snake-dark.svg)`
-
 <br/>
 
 ## 🚀 Featured Projects
