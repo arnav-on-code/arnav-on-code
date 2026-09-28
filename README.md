@@ -34,7 +34,7 @@
 - 🧠 Building **end-to-end ML/DL systems**, **LLM-powered RAG pipelines**, and production-style data apps
 - 🏢 Data Science Intern @ **Central Coalfields Limited (CCL)** — built a fraud detection system, **+25% detection accuracy**
 - 🛠️ Comfortable across the stack: **Python · TensorFlow · PyTorch · LangChain · FAISS · Hugging Face**
-- 🏆 **170+ LeetCode problems solved**, 50-day streak badge · State-Level Hackathon **Runner-up**
+- 🏆 **190+ LeetCode problems solved**, 50-days, 100-days streak badge · State-Level Hackathon **Runner-up**
 - 🎯 Currently targeting **Data Scientist / ML Engineer** roles — India, US, Japan & top MNCs
 - 📫 Reach me at **23f3002537@ds.study.iitm.ac.in**
 
